@@ -4,7 +4,7 @@ A hybrid image is the sum of a low-pass filtered version of  one image and a hig
 
 Reading this [paper](https://stanford.edu/class/ee367/reading/OlivaTorralb_Hybrid_Siggraph06.pdf) will help in understanding of hybrid images.
 
-## Input Images:
+### Input Images:
 
 Image-1:
 
@@ -15,14 +15,16 @@ Image-2:
 <img src="./hybrid_pyramid_input/data/Afghan_girl_before.jpg" alt="Image-2" />
 
 # Results: 
-## High and Low frequency Images:
+### High and Low frequency Images:
 
-1.Low-pass filtered Image-1:  
+Low-pass filtered Image-1:  
 
 ![Image-1](./Results/low_frequencies.jpg)
 
-2.High-pass filtered Image-2:
+High-pass filtered Image-2:
+
 ![Image-2](./Results/high_frequencies.jpg)
 
-## Hybrid Image:
+### Hybrid Image:
+
 ![Hybrid_image](./Results/hybrid_image.jpg)
